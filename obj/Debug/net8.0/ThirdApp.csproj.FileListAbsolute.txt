@@ -1,0 +1,14 @@
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\bin\Debug\net8.0\ThirdApp.exe
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\bin\Debug\net8.0\ThirdApp.deps.json
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\bin\Debug\net8.0\ThirdApp.runtimeconfig.json
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\bin\Debug\net8.0\ThirdApp.dll
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\bin\Debug\net8.0\ThirdApp.pdb
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.AssemblyInfoInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.AssemblyInfo.cs
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.csproj.CoreCompileInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.dll
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\refint\ThirdApp.dll
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.pdb
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.genruntimeconfig.cache
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ref\ThirdApp.dll
