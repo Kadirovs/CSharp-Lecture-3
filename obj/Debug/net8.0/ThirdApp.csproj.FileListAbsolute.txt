@@ -12,3 +12,4 @@ C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\refint\ThirdApp.dll
 C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.pdb
 C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.genruntimeconfig.cache
 C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ref\ThirdApp.dll
+C:\Users\KaKa\OneDrive\Desktop\ThirdApp\obj\Debug\net8.0\ThirdApp.sourcelink.json

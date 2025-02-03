@@ -1,4 +1,4 @@
-﻿/*double totalPrice = CalculateTotalPrice(5,10.5);
+﻿double totalPrice = CalculateTotalPrice(5,10.5);
 Console.WriteLine($"Total: {totalPrice}");
 double CalculateTotalPrice(int quantity, double pricePerItem){
 	return quantity * pricePerItem;
@@ -35,7 +35,7 @@ switch(timeOfDaay){
 	Console.WriteLine("Hello!");
 	break;
 }
-*/
+
 
 /*double Add(double a, double b){
 	return a + b;
@@ -256,24 +256,8 @@ class Program
         }
         return factorial;
     }
-}*/ 
-Student ahmad = new Student();
-ahmad.FirstName = "Ahmad";
-ahmad.LastName = "Ahmadov";
-ahmad.Age=16;
-ahmad.Grades= new double [] {55,66,77,88,88};
-
-Student kamol = new Student();
-kamol.FirstName = "Kamoliddin";
-kamol.LastName = "Kadirov";
-kamol.Age=16;
-kamol.Grades= new double [] {55,66,77,88,88};
-
-Console.WriteLine($"{ahmad.GetFullName()}:{ahmad.GetAverageGrade()}");
-Console.WriteLine($"{kamol.GetFullName()}:{kamol.GetAverageGrade()}");
-
-
-class Student
+}*/
+/*public class Student
 {
     public string FirstName;
     public string LastName;
@@ -290,7 +274,7 @@ class Student
         }
         return sum/Grades.Length;
     }
-}
+}*/
 
 
 
